@@ -1,7 +1,6 @@
 from flask import Flask, request, jsonify, render_template, send_from_directory
 import os
 import uuid
-from rembg import remove
 from PIL import Image
 from io import BytesIO
 from flask_cors import CORS
