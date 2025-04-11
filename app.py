@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify, render_template, send_from_directory
 import os
 import uuid
 from io import BytesIO
-from flask_cors import CORS
+
 
 app = Flask(__name__)
 CORS(app)
