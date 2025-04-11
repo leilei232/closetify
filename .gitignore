@@ -1,0 +1,61 @@
+# Ignore system-specific files
+*.log
+*.bak
+*.swp
+*.swo
+
+# Ignore IDE-specific folders
+.vscode/
+.idea/
+
+# Ignore Android Studio and other related folders
+.gradle/
+.android/
+
+# Ignore OS-specific files
+Thumbs.db
+Desktop.ini
+
+# Ignore Node modules if you have them
+node_modules/
+
+# Ignore personal user folders
+Documents/
+Downloads/
+AppData/
+OneDrive/
+Pictures/
+Videos/
+
+# Add any other files/folders to ignore as needed
+# Ignore system-specific directories
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Ignore Android Studio and related files
+.android/
+*.avd/
+
+# Ignore Node.js and other IDE-related files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+Thumbs.db
+Desktop.ini
+
+# Ignore personal user folders
+Documents/
+Downloads/
+OneDrive/
+Pictures/
+Videos/
+
+# Ignore log and temp files
+*.log
+*.bak
+*.swp
